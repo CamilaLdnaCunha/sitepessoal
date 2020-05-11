@@ -1,0 +1,39 @@
+body {
+    background-image:       url('https://blog.highdesignexpo.com/sites/highdesignexpo.com/files/styles/article_featured_retina/public/housed-wallpapers-decoracao-papel-parede-degrade-1024x512.jpg?itok=NmeZFBPq');
+    background-size: auto 100vh;  
+    font-family: Arial;
+    HEIGHT: 100vh;
+  }
+  
+  .menu{
+    background-color: pink;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: green;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    text-align: italic; 
+  }
+  
